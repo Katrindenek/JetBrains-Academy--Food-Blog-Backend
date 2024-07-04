@@ -7,7 +7,7 @@ The application is a part of [JetBrains Academy](https://hyperskill.org/projects
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/food-blog-application.git
+git clone https://github.com/Katrindenek/JetBrains-Academy--Food-Blog-Backend.git
 ```
 
 ### Usage
